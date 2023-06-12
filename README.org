@@ -1,0 +1,10 @@
+* deoxybyte-io
+
+File and stream IO Common Lisp utilities.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/deoxybyte-io.git   |
+| commit  | 45de3a2  |
+| systems | deoxybyte-io |
+|---------+-------------------------------------------|
+
